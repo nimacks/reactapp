@@ -43,4 +43,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-[![alt text](https://master.d35renml875m0f.amplifyapp.com/button.png)](https://aws-mobile-apphub-beta.corp.amazon.com/amplify/home#/deploy?repo=https://github.com/nimacks/reactapp)
+[![alt text](https://master.d35renml875m0f.amplifyapp.com/button.png)](https://us-east-1.awsc-integ.aws.amazon.com/amplify/home?region=us-east-1#/deploy?repo=https://github.com/nimacks/reactapp)
