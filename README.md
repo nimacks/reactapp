@@ -30,7 +30,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-Test
+Testasd
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
@@ -48,5 +48,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 [![alt text](https://master.d35renml875m0f.amplifyapp.com/button.png)](https://us-east-1.awsc-integ.aws.amazon.com/amplify/home?region=us-east-1#/deploy?repo=https://github.com/nimacks/reactapp)
 
-test-test-test
+test
 asdfa
